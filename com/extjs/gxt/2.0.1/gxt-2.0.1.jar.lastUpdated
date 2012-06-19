@@ -1,0 +1,19 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Thu Jun 07 17:55:41 CST 2012
+http\://JBossDeprecated/.error=Could not transfer artifact com.extjs\:gxt\:jar\:2.0.1 from/to JBossDeprecated (http\://JBossDeprecated)\: null to http\://JBossDeprecated/com/extjs/gxt/2.0.1/gxt-2.0.1.jar
+default-http\://JBossDeprecated/.lastUpdated=1339062332263
+http\://jbossnexus/.error=Could not transfer artifact com.extjs\:gxt\:jar\:2.0.1 from/to jbossnexus (http\://jbossnexus)\: null to http\://jbossnexus/com/extjs/gxt/2.0.1/gxt-2.0.1.jar
+default-http\://repository.jboss.org/maven2/.lastUpdated=1339062332681
+http\://repository.springsource.com/maven/bundles/release/.lastUpdated=1339062335054
+http\://repository.springsource.com/maven/bundles/external/.lastUpdated=1339062335461
+http\://localhost\:8080/nexus-2.0.5/content/groups/public/.lastUpdated=1339062941988
+http\://repository.codehaus.org/.error=
+http\://repository.codehaus.org/.lastUpdated=1339062334301
+http\://repository.springsource.com/maven/bundles/external/.error=
+http\://scala-tools.org/repo-releases/.lastUpdated=1339062333472
+http\://repository.codehaus.org/org/codehaus/mojo/.error=
+default-http\://jbossnexus/.lastUpdated=1339062329262
+http\://repository.jboss.org/maven2/.error=Could not transfer artifact com.extjs\:gxt\:jar\:2.0.1 from/to jboss (http\://repository.jboss.org/maven2)\: Access denied to http\://repository.jboss.org/maven2/com/extjs/gxt/2.0.1/gxt-2.0.1.jar. Error code 403, Forbidden
+http\://repository.codehaus.org/org/codehaus/mojo/.lastUpdated=1339062339042
+http\://repository.springsource.com/maven/bundles/release/.error=
+http\://scala-tools.org/repo-releases/.error=

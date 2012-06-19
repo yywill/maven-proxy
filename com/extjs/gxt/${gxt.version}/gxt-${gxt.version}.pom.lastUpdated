@@ -1,0 +1,20 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Thu Jun 07 17:44:05 CST 2012
+http\://JBossDeprecated/.error=Could not transfer artifact com.extjs\:gxt\:pom\:${gxt.version} from/to JBossDeprecated (http\://JBossDeprecated)\: IllegalArgumentException
+http\://localhost\:8080/nexus-2.0.5/content/groups/public/.error=Could not transfer artifact com.extjs\:gxt\:pom\:${gxt.version} from/to nexus (http\://localhost\:8080/nexus-2.0.5/content/groups/public)\: IllegalArgumentException
+default-http\://JBossDeprecated/.lastUpdated=1339062245254
+http\://jbossnexus/.error=Could not transfer artifact com.extjs\:gxt\:pom\:${gxt.version} from/to jbossnexus (http\://jbossnexus)\: IllegalArgumentException
+default-http\://repository.jboss.org/maven2/.lastUpdated=1339062245264
+http\://repository.codehaus.org/.error=Could not transfer artifact com.extjs\:gxt\:pom\:${gxt.version} from/to codehaus (http\://repository.codehaus.org/)\: IllegalArgumentException
+default-http\://localhost\:8080/nexus-2.0.5/content/groups/public/.lastUpdated=1339062245202
+default-http\://repository.codehaus.org/.lastUpdated=1339062245283
+http\://repository.springsource.com/maven/bundles/external/.error=Could not transfer artifact com.extjs\:gxt\:pom\:${gxt.version} from/to com.springsource.repository.bundles.external (http\://repository.springsource.com/maven/bundles/external)\: IllegalArgumentException
+http\://repository.codehaus.org/org/codehaus/mojo/.error=Could not transfer artifact com.extjs\:gxt\:pom\:${gxt.version} from/to codehaus-maven-repo (http\://repository.codehaus.org/org/codehaus/mojo/)\: IllegalArgumentException
+default-http\://jbossnexus/.lastUpdated=1339062245245
+default-http\://scala-tools.org/repo-releases/.lastUpdated=1339062245274
+http\://repository.jboss.org/maven2/.error=Could not transfer artifact com.extjs\:gxt\:pom\:${gxt.version} from/to jboss (http\://repository.jboss.org/maven2)\: IllegalArgumentException
+default-http\://repository.codehaus.org/org/codehaus/mojo/.lastUpdated=1339062245313
+default-http\://repository.springsource.com/maven/bundles/external/.lastUpdated=1339062245303
+http\://repository.springsource.com/maven/bundles/release/.error=Could not transfer artifact com.extjs\:gxt\:pom\:${gxt.version} from/to com.springsource.repository.bundles.release (http\://repository.springsource.com/maven/bundles/release)\: IllegalArgumentException
+default-http\://repository.springsource.com/maven/bundles/release/.lastUpdated=1339062245293
+http\://scala-tools.org/repo-releases/.error=Could not transfer artifact com.extjs\:gxt\:pom\:${gxt.version} from/to scala-tools.org (http\://scala-tools.org/repo-releases)\: IllegalArgumentException

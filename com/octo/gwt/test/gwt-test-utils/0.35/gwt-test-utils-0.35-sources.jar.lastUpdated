@@ -1,0 +1,19 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Thu Jun 07 12:00:15 CST 2012
+http\://localhost\:8080/nexus-2.0.5/content/groups/public/.lastUpdated=1339041601545
+default-http\://repository.jboss.org/maven2/.lastUpdated=1339041606476
+http\://repository.springsource.com/maven/bundles/release/.error=
+http\://jbossnexus/.error=Could not transfer artifact com.octo.gwt.test\:gwt-test-utils\:jar\:sources\:0.35 from/to jbossnexus (http\://jbossnexus)\: Error transferring file\: jbossnexus
+default-http\://jbossnexus/.lastUpdated=1339041603801
+http\://scala-tools.org/repo-releases/.lastUpdated=1339041606963
+http\://repository.springsource.com/maven/bundles/external/.error=
+default-http\://JBossDeprecated/.lastUpdated=1339041606057
+http\://repository.codehaus.org/.lastUpdated=1339041610525
+http\://scala-tools.org/repo-releases/.error=
+http\://repository.codehaus.org/.error=
+http\://forge.octo.com/nexus/content/repositories/releases/.lastUpdated=1339041615414
+http\://localhost\:8080/nexus-2.0.5/content/groups/public/.error=
+http\://repository.springsource.com/maven/bundles/external/.lastUpdated=1339041611350
+http\://repository.springsource.com/maven/bundles/release/.lastUpdated=1339041610947
+http\://JBossDeprecated/.error=Could not transfer artifact com.octo.gwt.test\:gwt-test-utils\:jar\:sources\:0.35 from/to JBossDeprecated (http\://JBossDeprecated)\: Error transferring file\: JBossDeprecated
+http\://repository.jboss.org/maven2/.error=Could not transfer artifact com.octo.gwt.test\:gwt-test-utils\:jar\:sources\:0.35 from/to jboss (http\://repository.jboss.org/maven2)\: Access denied to\: http\://repository.jboss.org/maven2/com/octo/gwt/test/gwt-test-utils/0.35/gwt-test-utils-0.35-sources.jar

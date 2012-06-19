@@ -1,0 +1,19 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Tue Jun 12 12:04:30 CST 2012
+http\://JBossDeprecated/.error=Could not transfer artifact com.octo.gwt.test\:gwt-test-utils\:pom\:0.35 from/to JBossDeprecated (http\://JBossDeprecated)\: Error transferring file\: JBossDeprecated
+http\://localhost\:8080/nexus-2.0.5/content/groups/public/.error=Could not transfer artifact com.octo.gwt.test\:gwt-test-utils\:pom\:0.35 from/to nexus (http\://localhost\:8080/nexus-2.0.5/content/groups/public)\: java.net.ConnectException\: Connection refused\: no further information to http\://localhost\:8080/nexus-2.0.5/content/groups/public/com/octo/gwt/test/gwt-test-utils/0.35/gwt-test-utils-0.35.pom
+default-http\://JBossDeprecated/.lastUpdated=1339039070157
+http\://jbossnexus/.error=Could not transfer artifact com.octo.gwt.test\:gwt-test-utils\:pom\:0.35 from/to jbossnexus (http\://jbossnexus)\: Error transferring file\: jbossnexus
+default-http\://repository.jboss.org/maven2/.lastUpdated=1339039070571
+http\://repository.springsource.com/maven/bundles/release/.lastUpdated=1339039072872
+http\://repository.springsource.com/maven/bundles/external/.lastUpdated=1339039073442
+http\://forge.octo.com/nexus/content/repositories/releases/.lastUpdated=1339039074870
+default-http\://localhost\:8080/nexus-2.0.5/content/groups/public/.lastUpdated=1339473870679
+http\://repository.codehaus.org/.error=
+http\://repository.codehaus.org/.lastUpdated=1339039072039
+http\://repository.springsource.com/maven/bundles/external/.error=
+http\://scala-tools.org/repo-releases/.lastUpdated=1339039071262
+default-http\://jbossnexus/.lastUpdated=1339039067373
+http\://repository.jboss.org/maven2/.error=Could not transfer artifact com.octo.gwt.test\:gwt-test-utils\:pom\:0.35 from/to jboss (http\://repository.jboss.org/maven2)\: Access denied to\: http\://repository.jboss.org/maven2/com/octo/gwt/test/gwt-test-utils/0.35/gwt-test-utils-0.35.pom
+http\://repository.springsource.com/maven/bundles/release/.error=
+http\://scala-tools.org/repo-releases/.error=

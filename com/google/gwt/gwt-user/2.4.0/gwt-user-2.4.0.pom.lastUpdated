@@ -1,0 +1,5 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Wed Jun 06 12:57:31 CST 2012
+default-http\://localhost\:8081/nexus-2.0.5/content/groups/public/.lastUpdated=1338958531679
+http\://localhost\:8081/nexus-2.0.5/content/groups/public/.error=Could not transfer artifact com.google.gwt\:gwt-user\:pom\:2.4.0 from/to nexus (http\://localhost\:8081/nexus-2.0.5/content/groups/public)\: Error transferring file\: Software caused connection abort\: recv failed
+http\://localhost\:8080/nexus-2.0.5/content/groups/public/.lastUpdated=1338958651909

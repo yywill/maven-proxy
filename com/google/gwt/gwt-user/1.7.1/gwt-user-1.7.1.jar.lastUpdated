@@ -1,0 +1,17 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Thu Jun 07 16:28:44 CST 2012
+http\://localhost\:8080/nexus-2.0.5/content/groups/public/.lastUpdated=1339057724490
+default-http\://repository.jboss.org/maven2/.lastUpdated=1339057147312
+http\://repository.springsource.com/maven/bundles/release/.error=
+http\://jbossnexus/.error=Could not transfer artifact com.google.gwt\:gwt-user\:jar\:1.7.1 from/to jbossnexus (http\://jbossnexus)\: Error transferring file\: jbossnexus
+default-http\://jbossnexus/.lastUpdated=1339057144642
+http\://scala-tools.org/repo-releases/.lastUpdated=1339057148001
+http\://repository.springsource.com/maven/bundles/external/.error=
+default-http\://JBossDeprecated/.lastUpdated=1339057146898
+http\://repository.codehaus.org/.lastUpdated=1339057148661
+http\://scala-tools.org/repo-releases/.error=
+http\://repository.codehaus.org/.error=
+http\://repository.springsource.com/maven/bundles/external/.lastUpdated=1339057149795
+http\://repository.springsource.com/maven/bundles/release/.lastUpdated=1339057149302
+http\://JBossDeprecated/.error=Could not transfer artifact com.google.gwt\:gwt-user\:jar\:1.7.1 from/to JBossDeprecated (http\://JBossDeprecated)\: Error transferring file\: JBossDeprecated
+http\://repository.jboss.org/maven2/.error=Could not transfer artifact com.google.gwt\:gwt-user\:jar\:1.7.1 from/to jboss (http\://repository.jboss.org/maven2)\: Access denied to\: http\://repository.jboss.org/maven2/com/google/gwt/gwt-user/1.7.1/gwt-user-1.7.1.jar

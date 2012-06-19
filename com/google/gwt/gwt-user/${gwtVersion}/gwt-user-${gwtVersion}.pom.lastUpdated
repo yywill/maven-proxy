@@ -1,0 +1,4 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Fri Jun 08 11:35:03 CST 2012
+default-http\://localhost\:8080/nexus-2.0.5/content/groups/public/.lastUpdated=1339126503948
+http\://localhost\:8080/nexus-2.0.5/content/groups/public/.error=Could not transfer artifact com.google.gwt\:gwt-user\:pom\:${gwtVersion} from/to nexus (http\://localhost\:8080/nexus-2.0.5/content/groups/public)\: IllegalArgumentException

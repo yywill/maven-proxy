@@ -1,0 +1,19 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Thu Jun 07 11:59:45 CST 2012
+http\://JBossDeprecated/.error=Could not transfer artifact com.google.gwt\:gwt-servlet\:jar\:2.4.0 from/to JBossDeprecated (http\://JBossDeprecated)\: Error transferring file\: JBossDeprecated
+default-http\://JBossDeprecated/.lastUpdated=1339041518543
+http\://jbossnexus/.error=Could not transfer artifact com.google.gwt\:gwt-servlet\:jar\:2.4.0 from/to jbossnexus (http\://jbossnexus)\: Error transferring file\: jbossnexus
+default-http\://repository.jboss.org/maven2/.lastUpdated=1339041519176
+http\://repository.springsource.com/maven/bundles/release/.lastUpdated=1339041523102
+http\://repository.springsource.com/maven/bundles/external/.lastUpdated=1339041523545
+http\://forge.octo.com/nexus/content/repositories/releases/.lastUpdated=1339041528425
+http\://repository.codehaus.org/.error=
+http\://localhost\:8080/nexus-2.0.5/content/groups/public/.lastUpdated=1339041585120
+http\://repository.codehaus.org/.lastUpdated=1339041521571
+http\://forge.octo.com/nexus/content/repositories/releases/.error=
+http\://repository.springsource.com/maven/bundles/external/.error=
+http\://scala-tools.org/repo-releases/.lastUpdated=1339041519886
+default-http\://jbossnexus/.lastUpdated=1339041515703
+http\://repository.jboss.org/maven2/.error=Could not transfer artifact com.google.gwt\:gwt-servlet\:jar\:2.4.0 from/to jboss (http\://repository.jboss.org/maven2)\: Access denied to\: http\://repository.jboss.org/maven2/com/google/gwt/gwt-servlet/2.4.0/gwt-servlet-2.4.0.jar
+http\://repository.springsource.com/maven/bundles/release/.error=
+http\://scala-tools.org/repo-releases/.error=

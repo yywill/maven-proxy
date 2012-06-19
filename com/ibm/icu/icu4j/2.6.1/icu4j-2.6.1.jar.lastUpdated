@@ -1,0 +1,7 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Thu Jun 07 17:04:28 CST 2012
+http\://scala-tools.org/repo-releases/.error=
+default-http\://jbossnexus/.lastUpdated=1339052172118
+http\://jbossnexus/.error=Could not transfer artifact com.ibm.icu\:icu4j\:jar\:2.6.1 from/to jbossnexus (http\://jbossnexus)\: Error transferring file\: jbossnexus
+http\://localhost\:8080/nexus-2.0.5/content/groups/public/.lastUpdated=1339059868010
+http\://scala-tools.org/repo-releases/.lastUpdated=1339051574429
